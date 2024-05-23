@@ -74,24 +74,22 @@ ul{
 .ed {
   font-size: 15;
   padding: 5px;
-  margin: 5px;
-  margin-left: 20px;
+  margin-left: 50px;
 }
 .lg {
  font-size: 15;
   padding: 5px;
-  margin: 5px;
   margin-left: 50px;
 }
 .nav {
   font-size: 15;
   padding: 5px;
-  margin: 5px;
   font-family: 'Montserrat', sans-serif;
+  margin-left: 50px;
 }
 
 .lgpr {
   font-size: 15;
   padding: 5px;
-  margin: 5px;
+  margin-left: 50px;
 }
